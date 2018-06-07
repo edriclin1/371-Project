@@ -1,0 +1,31 @@
+.text_field {
+    width: 175px;
+}
+
+.login_button {
+    margin-bottom: 10px;
+}
+
+label {
+	font-family:Helvetica;
+	font-size:24px;
+	font-weight:bold;
+    color:#0066cc;
+    margin-bottom: 10px;
+    display:inline-block;
+}
+
+h1 {
+    font-family:Helvetica;
+	font-size:36px;
+	font-weight:bold;
+    color:#003399;
+    margin-bottom:10px;
+    text-align:center;
+}
+
+.captcha_wrapper {
+    margin: auto;
+}
+
+
